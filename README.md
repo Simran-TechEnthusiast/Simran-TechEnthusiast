@@ -1,4 +1,13 @@
+# 💫 Hi 👋, I'm Simran
+**An Aspiring Full Stack Developer|| Data & AI Engineer**
 
+Email Me 👉 ✉️ **simrandhiman10593@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 **I’m currently learning:** Frontend and Enhancing knowledge in python
+- 📫 **How to reach me:** simrandhiman10593@gmail.com
+- 😄 **Pronouns:** Simran
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/simran-10647a3a3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simrandhiman10593@gmail.com) 
 
